@@ -23,6 +23,7 @@
 * [Doorlocks](https://github.com/ND-Framework/ND_Doorlocks)
 * [Properties](https://github.com/ND-Framework/ND_Properties)
 * [Appearance Shops](https://github.com/ND-Framework/ND_AppearanceShops)
+* [Blackjack](https://github.com/ND-Framework/ND_DiamondBlackjack)
 
 # Need support?
 [![Discord](https://discordapp.com/api/guilds/857672921912836116/widget.png?style=banner3)](https://discord.gg/Z9Mxu72zZ6)
